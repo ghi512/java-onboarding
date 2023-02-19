@@ -36,7 +36,7 @@ class ApplicationTest {
     }
 
     @Nested
-    class Problem2Test {
+     class Problem2Test {
         @Test
         void case1() {
             String cryptogram = "browoanoommnaon";
